@@ -3,6 +3,7 @@
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
 Welcome to your first lab assignment for Code 301!!
+Some useless change! Woooooooo!
 
 Today we'll be kicking off our Blog App by applying what we learned in lectures to implement a mobile-first design, using responsive web design techniques. You'll also need to spend some time getting familiar with the new Git/GitHub & Pair Programming workflow that we'll utilize throughout this course.
 
