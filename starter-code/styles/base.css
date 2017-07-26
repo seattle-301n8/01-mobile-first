@@ -21,6 +21,13 @@ address {
   display: inline-block;
 }
 
+/*IMAGE STYLES
+=======================================*/
+
+img {
+  max-width: 100%;
+}
+
 /*LINK STYLES
 =======================================*/
 
