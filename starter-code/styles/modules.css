@@ -54,7 +54,22 @@
   font-weight: bold;
   text-decoration: none;
 }
-
+@media only screen and (min-width: 1000px) {
+  .icon-menu {
+    display: none;
+  }
+  .main-nav {
+    width: 100%;
+  }
+  .main-nav ul {
+    display: block;
+  }
+  .main-nav li {
+    width: 18%;
+    float: left;
+    margin-right: 50px;
+  }
+}
 
 /* TODO: Now add styles for how things should look on a larger screen:
          - Hide the hamburger.
