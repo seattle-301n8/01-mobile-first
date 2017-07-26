@@ -63,7 +63,10 @@
   .icon-menu{
     display: none;
   }
-  .main-nav ul, .main-nav li{
+  .main-nav ul {
+    display:block;
+  }
+  .main-nav li{
     display:inline-block;
   }
 }
