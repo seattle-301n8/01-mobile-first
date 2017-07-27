@@ -61,7 +61,11 @@
   .icon-menu {
     display:none;
   }
-  .main-nav{
-    display:inline;
+  .main-nav ul{
+    display:inherit;
+    padding: 3%;
+  }
+  li{
+    display: inline;
   }
 }
