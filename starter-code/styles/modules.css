@@ -65,8 +65,13 @@
   .icon-menu {
     display: none;
   }
-main {
-  margin-left: 10%;
-  margin-right: 10%;
+.main-nav ul {
+  list-style: none;
+  display: block;
+}
+
+.main-nav li {
+  float: left;
+  padding: .625em;
 }
 }
